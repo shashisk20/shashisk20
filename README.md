@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Shashi SK
 - 👀 I’m interested in music, specifically keyboard.
 - 🌱 I’m currently studying in IITK
-- 💞️ BS CHM
-- 📫 How to reach me Instagram : https://www.instagram.com/_living.cool__/
+
 
 
 <!---
