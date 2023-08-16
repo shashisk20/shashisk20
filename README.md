@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Shashi SK
-- 👀 Coding!!
-- 🌱 I’m currently studying in IITK
-
-
-
-<!---
-shashisk20/shashisk20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate Programmer | Code Enthusiast | Problem Solver
+🚀 Turning Coffee into Code
+🌐 Exploring the Digital Frontier, One Line at a Time
+💻 Crafting Elegant Solutions to Complex Challenges
+🔍 Constantly Learning, Forever Growing
+🎯 Transforming Ideas into Reality through Algorithms
