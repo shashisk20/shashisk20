@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashi SK
-- 👀 I’m interested in music, specifically keyboard.
+- 👀 Coding!!
 - 🌱 I’m currently studying in IITK
 
 
